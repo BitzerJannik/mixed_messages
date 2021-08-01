@@ -32,8 +32,8 @@ Das Projekt ist ein Zufallsgenerator, der zufällig Nachrichten ausgibt. Diese b
 ## Inhalt
 ### Message-Inhalt
 1. Lateinisches Zitat
-2. Motivationsspruch aus der Kategorie Erfolg, Antrieb, Sport
-3. Motivationsspruch aus der Kategorie Veränderung, Durchhalten
+2. Motivationsspruch Deutsch
+3. Motivationsspruch Englisch
 
 ### Code
 - [ ] Arrays oder Objekte mit den Sprüchen

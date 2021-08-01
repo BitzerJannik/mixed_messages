@@ -1,0 +1,1 @@
+This is a tutorial project from Codecademys full-stack-developer Course. It is a message generator, which randomly prints free statements to the console. This messages contain an latin quote, a 
